@@ -1,0 +1,1 @@
+A C++ console application for social network analysis using graph algorithms including BFS, DFS, and shortest path finding.
